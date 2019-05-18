@@ -1,0 +1,7 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/home/thinkwell/Downloads/flutter
+FLUTTER_APPLICATION_PATH=/home/thinkwell/Desktop/flutter_projects/f_web/f_web
+FLUTTER_TARGET=lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+FLUTTER_FRAMEWORK_DIR=/home/thinkwell/Downloads/flutter/bin/cache/artifacts/engine/ios
