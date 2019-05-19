@@ -2,7 +2,7 @@
 
 Login page made with Flutter Web
 
-Inspired By [this post](https://www.uplabs.com/posts/invision-login-page)
+Design Inspired By [this post](https://www.uplabs.com/posts/invision-login-page)
 
 # Screenshot
 
