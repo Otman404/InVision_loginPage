@@ -9,7 +9,6 @@ Inspired By [this post](https://www.uplabs.com/posts/invision-login-page)
 ![](assets/Screenshot.png)
 
 
-
 # Requirement
 
 To run the code you need to have Flutter web installed as well as dart SDK, and of course a code editor( eg: VsCode)

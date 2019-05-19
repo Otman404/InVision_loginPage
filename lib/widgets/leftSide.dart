@@ -14,7 +14,7 @@ class LeftSide extends StatelessWidget {
         // color: Color(0xff292929),
         decoration: BoxDecoration(
             image: DecorationImage(
-          image: AssetImage('images/bgImage.jpg'),
+          image: AssetImage('images/bg.jpg'),
           fit: BoxFit.cover,
         )),
         child: Container(
@@ -62,7 +62,7 @@ class LeftSide extends StatelessWidget {
                           margin: EdgeInsets.only(bottom: 30),
                           child: Text(
                             'Empower smarter design. Go to market faster. Spark design-driven innovation.',
-                            style: TextStyle(color: Colors.white),
+                            style: TextStyle(color: Colors.white,fontSize: 15),
                           ),
                         ),
                         OutlineButton(
