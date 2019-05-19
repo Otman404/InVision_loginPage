@@ -50,7 +50,7 @@ class RightSide extends StatelessWidget {
                 child: TextField(
                   decoration: InputDecoration(
                     labelText: 'Username',
-                    hintText: 'Otmane',
+                    hintText: '',
                     icon: Image.asset('images/user.png'),
                     // prefix: Image.asset('images/user.png'),
                     // prefixIcon: Icon(Icons.person),
@@ -67,7 +67,6 @@ class RightSide extends StatelessWidget {
                   obscureText: true,
                   decoration: InputDecoration(
                     labelText: 'Password',
-                    hintText: '*********',
                     icon: Image.asset('images/closed-lock.png'),
                     // prefix: Image.asset('images/closed-lock.png'),
                     // prefixIcon: Icon(Icons.person),
